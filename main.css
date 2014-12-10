@@ -1,0 +1,44 @@
+.nav a {
+ color: #5a5a5a;
+ font-size: 24px;
+ font-weight: bold;
+ 
+ padding-top: 14px;
+ padding-bottom: 14px;
+ 
+ padding-right: 10px;
+ padding-left: 10px;
+ text-transform: uppercase;
+}
+.jumbotron {
+ height: 500px;
+ background-image: url('http://goo.gl/04j7Nn');
+
+}
+.jumbotron h1 {
+ height: 500px;
+ color: #fff;
+ font-size: 48px;
+ font-weight: bold;
+}
+.jumbotron p {
+ height: 500px;
+ color: #fff;
+ font-size: 20px;
+}
+.jumbotron h1 {
+font-family: 'Shift', sans-serif;
+}
+.learn-more {
+ background-color: #f7f7f7;   
+}
+.learn-more h3 {
+ font-family: 'shift', sans-serif;
+ font-size: 18px;
+ font-weight: bold;
+}
+.learn-more a {
+ font-family: 'shift', sans-serif;
+ font-size: 18px;
+ font-weight: bold;
+}
